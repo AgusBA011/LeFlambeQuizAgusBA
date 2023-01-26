@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LeFlambeQuizAgusBA</string>
+
+    <!-- Drawer View -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">This a Drawer Menu.</string>
+    <string name="nav_header_subtitle">Slide to close.</string>
+
+    <!-- Menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_popup">Popup</string>
+    <string name="menu_progressbar">ProgressBar</string>
+
+    <!-- Popup View -->
+    <string name="popup_button_title">POPUP MUSIC</string>
+    <string name="popup_title">This is a Popup</string>
+    <string name="popup_subtitle">You have opened a popup, tap on "Close" or outside to exit.</string>
+    <string name="popup_close">Close</string>
+
+    <!-- Home View -->
+    <string name="home_title">Hello World!</string>
+
+    <!-- Progress View -->
+    <string name="progress_message">The data has loaded. Tap to load again.</string>
+
+</resources>
